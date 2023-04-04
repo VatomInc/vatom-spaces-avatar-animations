@@ -1,0 +1,15 @@
+{
+  "id": "avataranimations",
+  "name": "avataranimations",
+  "version": "1.0.1",
+  "beta": true,
+  "personalPlugin": true,
+  "description": "Animations for an npc avatar",,
+  "longDescription": "Animations for an npc avatar, just a bunch that are sometime useful",
+  "configuration": "none",
+  "category": "Avatars",
+  "businessId": "ygPjpulNgy",
+  "price": 0,
+  "releaseNotes": "Animations for an npc avatar - my first plugin",
+  "entrypoint": ""
+}
